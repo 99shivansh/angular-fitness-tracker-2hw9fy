@@ -6,6 +6,6 @@ export const environment = {
     databaseURL: "https://stay-fit-d232a.firebaseio.com/",
     projectId: "stat fit",
     storageBucket: "gs://stay-fit-d232a.appspot.com",
-    messagingSenderId: "867032762734"
+    messagingSenderId: "1048113561736"
   }
 };
