@@ -1,11 +1,11 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: "AIzaSyCBxqCumEOP1GR53xUqCuwCOIqDpv6g_dw",
-    authDomain: "ng-fitness-tracker-d626e.firebaseapp.com",
-    databaseURL: "https://ng-fitness-tracker-d626e.firebaseio.com",
-    projectId: "ng-fitness-tracker-d626e",
-    storageBucket: "ng-fitness-tracker-d626e.appspot.com",
+    apiKey: "AIzaSyC0wR6Nk7gY_iaEmM-vcGDUkkemQfxcf6M",
+    authDomain: "stay-fit-d232a.firebaseapp.com",
+    databaseURL: "https://stay-fit-d232a.firebaseio.com/",
+    projectId: "stat fit",
+    storageBucket: "gs://stay-fit-d232a.appspot.com",
     messagingSenderId: "867032762734"
   }
 };
