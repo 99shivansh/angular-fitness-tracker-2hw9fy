@@ -13,14 +13,15 @@ import { PastTrainingsComponent } from '../training/past-trainings/past-training
 import { StopTrainingComponent } from '../training/current-training/stop-training.component';
 import { TrainingRoutingModule  } from './training-routing.module';
 import { trainingReducer } from './training.reducer';
-
+import {bmicomponent } from '../training/bmi/bmi.component';
 @NgModule({
   declarations: [
     TrainingComponent,
     CurrentTrainingComponent,
     NewTrainingComponent,
     PastTrainingsComponent,
-    StopTrainingComponent
+    StopTrainingComponent,
+    bmicomponent
   ],
   imports: [
     SharedModule,
